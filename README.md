@@ -23,8 +23,9 @@ To set up the project locally, follow these steps:
    ```bash
    https://github.com/yashica-kuki/cryptocurrency.git
 2. **Navigate to the project directory:**
+   ```bash
    cd cryptocurrency
-3. Open main.html in your browser
+4. Open main.html in your browser
 
 #### 📌 Usage
 View live cryptocurrency prices
