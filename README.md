@@ -20,14 +20,12 @@ API: CoinGecko/CoinMarketCap API (for real-time prices)
 To run the project locally, follow these steps:
 
 Fork the repository:
-bash
+```bash
 https://github.com/yashica-kuki/cryptocurrency.git
 Navigate to the project directory:
-bash
-Copy
-Edit
-cd crypto-update
-Open index.html in your browser
+```bash
+cd cryptocurrency
+Open main.html in your browser
 
 #### 📌 Usage
 View live cryptocurrency prices
