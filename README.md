@@ -19,12 +19,35 @@ API: CoinGecko/CoinMarketCap API (for real-time prices)
 ### Installation
 To run the project locally, follow these steps:
 
-Fork the repository:
-```bash
-https://github.com/yashica-kuki/cryptocurrency.git
-Navigate to the project directory:
-```bash
-cd cryptocurrency
+Here is your README.md file in proper markdown syntax:
+
+md
+Copy
+Edit
+# 🚀 Cryptocurrency Website  
+
+A web platform that provides real-time updates, market trends, and insights into various cryptocurrencies.  
+
+## 📌 Features  
+- ✅ Live cryptocurrency price updates  
+- ✅ Detailed market trends and historical data  
+- ✅ Interactive charts and graphs  
+- ✅ Search functionality for different cryptocurrencies  
+- ✅ Latest news and updates on the crypto market  
+
+## 🛠 Technologies Used  
+- **Frontend:** HTML, CSS, JavaScript  
+- **API:** CoinGecko/CoinMarketCap API (for real-time prices)  
+- **Charting Library:** Chart.js/D3.js (for graphical representation)  
+
+## 📥 Installation  
+To set up the project locally, follow these steps:  
+
+1. **Fork the repository:**  
+   ```bash
+   
+2. **Navigate to the project directory:**
+   cd cryptocurrency
 Open main.html in your browser
 
 #### 📌 Usage
